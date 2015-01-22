@@ -1,0 +1,10 @@
+Sample.Number	Sample.Name	File	RNA Concentration:
+1	rre1	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample1.csv	NA
+2	rre2	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample2.csv	NA
+3	rre3	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample3.csv	NA
+4	rre4	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample4.csv	NA
+5	rre5	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample5.csv	NA
+6	rre6	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample6.csv	NA
+7	rre7	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample7.csv	NA
+8	ktu2	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample8.csv	NA
+9	ktu2	2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample9.csv	NA

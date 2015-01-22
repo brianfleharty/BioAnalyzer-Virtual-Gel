@@ -1,0 +1,58 @@
+""	"Sample.Number"	"Sample.Name"	"File"	"RNA.Concentration."
+"1"	1	"WT control "	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample1.csv"	301.7027
+"2"	2	"WT control "	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample2.csv"	385.0158
+"3"	3	"WT control "	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample3.csv"	535.7837
+"4"	4	"1K 3hrpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample4.csv"	190.879
+"5"	5	"1K 3hrpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample5.csv"	198.4988
+"6"	6	"1K 3hrpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample6.csv"	220.3553
+"7"	7	"1K 6hrpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample7.csv"	215.9826
+"8"	8	"1K 6hrpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample8.csv"	114.3287
+"9"	9	"1K 6hrpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample9.csv"	219.925
+"10"	10	"1K 9hrpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample10.csv"	203.7918
+"11"	11	"1K 9hrpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample11.csv"	134.1326
+"12"	12	"1K 9hrpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Sample12.csv"	254.4245
+"13"	NA	NA	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_09-47-46_Ladder.csv"	NA
+"14"	13	"1K 12hrpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample1.csv"	207.3359
+"15"	14	"1K 12hrpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample2.csv"	153.9503
+"16"	15	"1K 12hrpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample3.csv"	178.8295
+"17"	16	"1K 1dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample4.csv"	237.7686
+"18"	17	"1K 1dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample5.csv"	169.7271
+"19"	18	"1K 1dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample6.csv"	192.4199
+"20"	19	"1K 2dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample7.csv"	154.3322
+"21"	20	"1K 2dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample8.csv"	125.3795
+"22"	21	"1K 2dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample9.csv"	140.0129
+"23"	22	"1K 3dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample10.csv"	188.2769
+"24"	23	"1K 3dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample11.csv"	103.5299
+"25"	24	"1K 3dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Sample12.csv"	147.458
+"26"	NA	NA	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-24-10_Ladder.csv"	NA
+"27"	25	"1K 4dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample1.csv"	96.00577
+"28"	26	"1K 4dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample2.csv"	108.4606
+"29"	27	"1K 4dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample3.csv"	99.34795
+"30"	28	"1K 5dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample4.csv"	85.49054
+"31"	29	"1K 5dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample5.csv"	35.0089
+"32"	30	"1K 5dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample6.csv"	96.3046
+"33"	31	"1K 6dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample7.csv"	99.1697
+"34"	32	"1K 6dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample8.csv"	35.11518
+"35"	33	"1K 6dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample9.csv"	61.2852
+"36"	34	"1K 7dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample10.csv"	106.4039
+"37"	35	"1K 7dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample11.csv"	92.69683
+"38"	36	"1K 7dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Sample12.csv"	140.118
+"39"	NA	NA	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_10-52-58_Ladder.csv"	NA
+"40"	37	"1K 8dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample8.csv"	80.69606
+"41"	38	"1K 8dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample9.csv"	86.29
+"42"	39	"1K 8dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample10.csv"	79.10178
+"43"	40	"1K 9dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample11.csv"	91.95161
+"44"	41	"1K 9dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Sample12.csv"	96.19068
+"45"	NA	NA	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-16-28_Ladder.csv"	NA
+"46"	42	"1K 9dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample1.csv"	141.3199
+"47"	43	"1K 10dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample2.csv"	122.5038
+"48"	44	"1K 10dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample3.csv"	50.37429
+"49"	45	"1K 10dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample4.csv"	89.73934
+"50"	46	"1K 14dpi 1"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample5.csv"	105.276
+"51"	47	"1K 14dpi 2_250uL_TRIZOL"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample6.csv"	19.04576
+"52"	47	"1K 14dpi 2"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample7.csv"	45.32732
+"53"	48	"1K 14dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample8.csv"	21.25752
+"54"	49	"6K 7dpi 1_250uL_TRIZOL"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample9.csv"	150.5065
+"55"	50	"6K 7dpi 2 "	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample10.csv"	200.4168
+"56"	51	"6K 7dpi 3"	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Sample11.csv"	162.6985
+"57"	NA	NA	"2100 expert_Eukaryote Total RNA Nano_DE34903936_2012-01-05_11-41-38_Ladder.csv"	NA

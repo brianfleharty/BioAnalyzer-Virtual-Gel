@@ -1,0 +1,61 @@
+Sample Number	Sample Name	BA Chip	BA Lane
+1	WT control 	1	1
+2	WT control 	1	2
+3	WT control 	1	3
+4	1K 3hrpi 1	1	4
+5	1K 3hrpi 2	1	5
+6	1K 3hrpi 3	1	6
+7	1K 6hrpi 1	1	7
+8	1K 6hrpi 2	1	8
+9	1K 6hrpi 3	1	9
+10	1K 9hrpi 1	1	10
+11	1K 9hrpi 2	1	11
+12	1K 9hrpi 3	1	12
+13	1K 12hrpi 1	2	1
+14	1K 12hrpi 2	2	2
+15	1K 12hrpi 3	2	3
+16	1K 1dpi 1	2	4
+17	1K 1dpi 2	2	5
+18	1K 1dpi 3	2	6
+19	1K 2dpi 1	2	7
+20	1K 2dpi 2	2	8
+21	1K 2dpi 3	2	9
+22	1K 3dpi 1	2	10
+23	1K 3dpi 2	2	11
+24	1K 3dpi 3	2	12
+25	1K 4dpi 1	3	1
+26	1K 4dpi 2	3	2
+27	1K 4dpi 3	3	3
+28	1K 5dpi 1	3	4
+29	1K 5dpi 2	3	5
+30	1K 5dpi 3	3	6
+31	1K 6dpi 1	3	7
+32	1K 6dpi 2	3	8
+33	1K 6dpi 3	3	9
+34	1K 7dpi 1	3	10
+35	1K 7dpi 2	3	11
+36	1K 7dpi 3	3	12
+NA	rre1	4	1
+NA	rre2	4	2
+NA	rre3	4	3
+NA	rre4	4	4
+NA	rre5	4	5
+NA	rre6	4	6
+NA	rre7	4	7
+37	1K 8dpi 1	4	8
+38	1K 8dpi 2	4	9
+39	1K 8dpi 3	4	10
+40	1K 9dpi 1	4	11
+41	1K 9dpi 2	4	12
+42	1K 9dpi 3	5	1
+43	1K 10dpi 1	5	2
+44	1K 10dpi 2	5	3
+45	1K 10dpi 3	5	4
+46	1K 14dpi 1	5	5
+47	1K 14dpi 2_250uL_TRIZOL	5	6
+47	1K 14dpi 2	5	7
+48	1K 14dpi 3	5	8
+49	6K 7dpi 1_250uL_TRIZOL	5	9
+50	6K 7dpi 2 	5	10
+51	6K 7dpi 3	5	11
+NA	NA	NA	NA
